@@ -29,7 +29,7 @@
 
 	<title><?php echo $titles;?></title>
 	<style type="text/css">
-                    * {background-color: black}
+                    body {background-color: black}
                 </style>
 </head>
 

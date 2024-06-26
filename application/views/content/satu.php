@@ -47,7 +47,7 @@
                             <div class="card-header">
                                 <div class="d-flex align-items-center">
                                     <div>
-                                        <h6 class="mb-0">CURRENCY SCREENERS</h6>
+                                        <h6 class="mb-0">Currency Screeners</h6>
                                     </div>
                                    
                                 </div>

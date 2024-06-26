@@ -41,8 +41,8 @@ html.dark-theme .text-secondary {
 }
 
 html.dark-theme .topbar {
-	background-color: #212529;
-	border-bottom: 1px solid rgb(237 237 237 / 12%);
+	background-color: black;
+	border-bottom: 1px solid black;
 }
 html.dark-theme .user-box {
 	border-left: 1px solid rgb(255 255 255 / 0.15);
@@ -360,8 +360,8 @@ html.dark-theme .modal-footer {
 
 
 html.dark-theme .primary-menu .navbar {
-	background: #212529;
-	border-bottom: 1px solid rgb(255 255 255 / 12%);
+	background: black;
+	border-bottom: 1px solid rgb(211 111 26 / 63%);
 	box-shadow: none !important;
 
 }
